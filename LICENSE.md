@@ -1,4 +1,4 @@
-
+Enhance VMware Fusion for macOS with VMware Fusion for macOS secure Plugin - automated-tasks and window-management, the #1 plugin. Includes automated-tasks and window-management
 
 
 
